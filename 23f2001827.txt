@@ -1,0 +1,9 @@
+Name: Khushi
+Roll Number: 23f2001827
+
+I learned:
+- Forking repositories
+- Cloning repositories
+- Git commits
+- Pull Requests
+- GitHub Issues
